@@ -40,6 +40,18 @@ describe('Swag Labs Login Functionality', () => {
 
 describe('', () => {
     it('', () => {
+        
+    });
+})
+
+describe('', () => {
+    it('', () => {
+        
+    });
+})
+
+describe('', () => {
+    it('', () => {
         cy.get('')
         .type();
 
